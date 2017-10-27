@@ -1,0 +1,3 @@
+package: github.com/yyjazsf/study
+import:
+- package: github.com/op/go-wlogging
